@@ -7728,7 +7728,7 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: 46b9af;
+  color: #46b9ab;
 /*     rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important; */
 }
 
@@ -11411,7 +11411,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #b5e3de;
 }
 
 .dev-icons {
