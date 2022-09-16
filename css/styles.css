@@ -11302,7 +11302,8 @@ textarea.form-control-lg {
 }
 body {
   padding-top: 3.375rem;
-  color: #6c757d;
+  color:#8d6c6c;
+/*     #6c757d; */
 }
 
 @media (min-width: 992px) {
