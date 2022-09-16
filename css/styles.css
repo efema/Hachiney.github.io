@@ -237,7 +237,8 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: #59c0b7;
+/*     #bd5d38; */
   text-decoration: underline;
 }
 a:hover {
@@ -7727,7 +7728,8 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
+  color: 46b9af;
+/*     rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important; */
 }
 
 .text-secondary {
